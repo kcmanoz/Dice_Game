@@ -31,6 +31,10 @@ main {
   padding: 8rem;
   align-items: center;
 }
+.mid-section {
+  flex: 1%;
+  background-color: #e4d4ca;
+}
 
 /* ELEMENTS */
 .name {
@@ -53,7 +57,7 @@ main {
   background-color: #e67e22;
   border-radius: 10px;
   color: #fff;
-  width: 40%;
+  width: 70%;
   padding: 2rem;
   text-align: center;
 }
